@@ -1,0 +1,1 @@
+There is no code for Chapter1, Chapter14 and AppendixB. Because they deal with installation process.
